@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+    <ul class = "navbar-nav">
+        <li class = "nav-item">
+            <a [routerLink]="['/entries']" routerLinkActive="active" class="nav-link">Entry List</a>
+        </li>
+        <li class = "nav-item">
+            <a [routerLink]="['/create-entry']" routerLinkActive="active" class="nav-link">Create Entry</a>
+        </li>
+        <li class = "nav-item">
+            <a [routerLink]="['/filter-entry']" routerLinkActive="active" class="nav-link">Filter Entries</a>
+        </li>
+    </ul>
+</nav>
+
+<h1 class="text-center"> {{title}} </h1>
+<div class = "container">
+    <router-outlet></router-outlet>
+</div>
+
+<footer class = "footer">
+    <div class = "container">
+        <span>All Rights Reserved 2024 Bhavya Venkataraghavan</span>
+    </div>
+</footer>

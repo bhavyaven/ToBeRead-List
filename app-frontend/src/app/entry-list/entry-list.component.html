@@ -1,0 +1,26 @@
+<h2> Entry List </h2>
+<table class = "table table-striped">
+    <thead>
+        <tr>
+            <th> Book </th>
+            <th> Author </th>
+            <th> Added By </th>
+            <th> Status </th>
+            <th> Actions </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor = "let entry of entries">
+            <td> {{ entry.book }} </td>
+            <td> {{ entry.author }} </td>
+            <td> {{ entry.addedBy }} </td>
+            <td> {{ entry.status }} </td>
+            <td>
+                <button (click) = "updateEntry(entry.id)" class = "btn btn-info"> Update </button>
+                <button (click) = "deleteEntry(entry.id)" class = "btn btn-danger" style = "margin-left: 10px"> Delete </button>
+                <button (click) = "entryDetails(entry.id)" class = "btn btn-info" style = "margin-left: 10px"> View </button>
+
+            </td>
+        </tr>    
+    </tbody>
+</table>
