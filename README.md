@@ -148,11 +148,12 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Bhavya Venkataraghavan - bhavya.v04@gmail.com
-LinkedIn: http://www.linkedin.com/in/bhavya-venkat
-GitHub: https://github.com/bhavyaven
+Bhavya Venkataraghavan - bhavya.v04@gmail.com   
+LinkedIn: http://www.linkedin.com/in/bhavya-venkat    
+GitHub: https://github.com/bhavyaven   
 
 Project Link: [https://github.com/bhavyaven/ToBeRead-List](https://github.com/bhavyaven/ToBeRead-List)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
