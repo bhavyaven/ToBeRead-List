@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -6,7 +5,6 @@
 <div align="center">
   <h1 align="center">To Be Read List</h1>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -28,11 +26,9 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -46,6 +42,7 @@ This project is a simple database-backed web application I built for my Informat
 - Database: MySQL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -109,7 +106,6 @@ You need the following installed:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -119,30 +115,6 @@ You need the following installed:
 - Enhance frontend UI with better styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-<a href="https://github.com/bhavyaven/ToBeRead-List/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bhavyaven/ToBeRead-List" alt="contrib.rocks image" />
-</a>
 
 
 <!-- CONTACT -->
