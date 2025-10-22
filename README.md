@@ -101,10 +101,10 @@ You need the following installed:
 * Delete books you have finished/no longer want to read
 * Filter the list dynamically by status
 
-![alt text](<Screenshot 2025-10-22 155549.png>)
-![alt text](<Screenshot 2025-10-22 155612.png>)
-![alt text](<Screenshot 2025-10-22 155627.png>)
-![alt text](<Screenshot 2025-10-22 155637.png>)
+![alt text](<images/Screenshot 2025-10-22 155549.png>)
+![alt text](<images/Screenshot 2025-10-22 155612.png>)
+![alt text](<images/Screenshot 2025-10-22 155627.png>)
+![alt text](<images/Screenshot 2025-10-22 155637.png>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
